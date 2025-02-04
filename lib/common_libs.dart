@@ -1,6 +1,9 @@
 /// Consolidate imports that are common across the app.
 library;
 
+// Assets
+export 'package:goods_mobile_app/common/assets/image/app_image.dart';
+
 // Libraries
 export 'package:flutter/material.dart';
 

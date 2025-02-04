@@ -80,7 +80,7 @@ flutter:
         - asset: assets/fonts/Inter_18pt-Medium.ttf
     - family: Inter-Bold
       fonts:
-        - asset: assets/fonts/Inter_18pt-Bold.ttf
+        - asset: assets/fonts/Inter_28pt-ExtraBold.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
